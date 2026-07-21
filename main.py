@@ -1,7 +1,7 @@
-print("Nithin\nNithin")
+'''print("Nithin\nNithin")
 print(r"\tcurrent\new\folder")
 # / is an escape character
-# write a pogram to find odd and even numbers with function
+# write a pogram to find odd and even numbers with function'''
 '''def check(num):
     if num%2==0:
         print(num,"is even number")
@@ -63,13 +63,13 @@ n = int(input("Enter a number: "))
 sum = 0
 for i in range(1,n+1):
     sum = sum + i
-print(sum)'''
+print(sum)
 
-'''# take a number as input and find the sum of thew numbers from 1 to that number by using while loop
+# take a number as input and find the sum of thew numbers from 1 to that number by using while loop
 n = int(input("Enter a number: "))
 sum = 0
 i = 1
 while i <= n:
     sum = sum + i
     i = i + 1
-print(sum)''''''
+print(sum)'''
