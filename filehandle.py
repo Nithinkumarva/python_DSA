@@ -5,7 +5,7 @@ with open("file1.txt", "r") as file:
 with open("file1.txt", "a") as file:
     file.write("python programming") '''
 
-#task1
+'''#task1
 #keep asking valid intiger number
 #if not valid intiger number then print error 
 while True:
@@ -23,6 +23,8 @@ try:
     index = int(input("Enter the index: "))
     print("Element:", l[index])
 except IndexError:
-    print("Error! Index is out of range.")
+    print("Error! Index is out of range.")'''
+
+
 
 
