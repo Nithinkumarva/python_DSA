@@ -140,17 +140,17 @@ print(sum)'''
 # while i>0:
 #     print("hi")
 
-# print the sum of numbers from 1 to n using for loop
+'''# print the sum of numbers from 1 to n using for loop
 a  = int(input())
 sum = 0
 for i in range(1, a):
     sum+=i
-print(sum)
+print(sum)'''
 
-#print the sum of numbers from 1 to n using while loop
+'''#print the sum of numbers from 1 to n using while loop
 sum=0
 while a > 0:
     sum+=a
     a-=1
-print(sum)
+print(sum)'''
 

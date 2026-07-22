@@ -31,9 +31,10 @@ except ValueError as e:
 else:
     print("done")
 '''
-#to thow an error
+'''#to thow an error
 a=int(input("Enter a number: "))
 if a<0:
     raise ValueError("number of negative")
 else:
     print(a)
+'''
